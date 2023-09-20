@@ -7,9 +7,11 @@ import org.springframework.web.context.annotation.RequestScope;
 @Component
 public class Cliente {
 
+    //Inyecta el nombre por medio del archivo application.properties
     @Value("${cliente.nombre}")
     private String nombre;
 
+    //Inyecta el apellido por medio del archivo application.properties
     @Value("${cliente.apellido}")
     private String apellido;
 

@@ -9,6 +9,8 @@ import java.util.List;
 
 @Component
 public class Factura {
+
+    //Inyecta la descipcion por medio del archivo application.properties
     @Value("${factura.descripcion}")
     private String descripcion;
     @Autowired
