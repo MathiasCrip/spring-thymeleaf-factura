@@ -1,8 +1,7 @@
-package org.bedu.javabackendproyecto.proyectospringthymeleaft.models.dominio;
+package org.bedu.javabackendproyecto.proyectospringthymeleaft.models;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
-import org.springframework.web.context.annotation.RequestScope;
 
 @Component
 public class Cliente {

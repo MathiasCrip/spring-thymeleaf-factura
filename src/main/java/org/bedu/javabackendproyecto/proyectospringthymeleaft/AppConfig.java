@@ -1,7 +1,7 @@
 package org.bedu.javabackendproyecto.proyectospringthymeleaft;
 
-import org.bedu.javabackendproyecto.proyectospringthymeleaft.models.dominio.ItemFactura;
-import org.bedu.javabackendproyecto.proyectospringthymeleaft.models.dominio.Producto;
+import org.bedu.javabackendproyecto.proyectospringthymeleaft.models.ItemFactura;
+import org.bedu.javabackendproyecto.proyectospringthymeleaft.models.Producto;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;

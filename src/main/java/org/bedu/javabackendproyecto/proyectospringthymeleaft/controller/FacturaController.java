@@ -1,6 +1,6 @@
 package org.bedu.javabackendproyecto.proyectospringthymeleaft.controller;
 
-import org.bedu.javabackendproyecto.proyectospringthymeleaft.models.dominio.Factura;
+import org.bedu.javabackendproyecto.proyectospringthymeleaft.models.Factura;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,4 +1,4 @@
-package org.bedu.javabackendproyecto.proyectospringthymeleaft.models.dominio;
+package org.bedu.javabackendproyecto.proyectospringthymeleaft.models;
 
 public class Producto {
 
